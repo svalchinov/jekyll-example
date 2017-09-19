@@ -2,13 +2,13 @@
 title: Your awesome title
 timezone: UTC
 collections:
+  gallery:
+    title: Gallery
+    output: true
+    permalink: gallery
   posts:
     title: Posts
     output: true
-  testimonials:
-    title: Testimonials
-    output: true
-    permalink: testimonials
   uploads:
     title: Uploads
     output: true
